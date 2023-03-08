@@ -1,13 +1,14 @@
 # Customer Churn Classification
 
-This project aims to built a *clustering* model on *credit card* customers and evaluate the *behavior (characteristics)* of each *cluster* with ultimate goal  meet *customer* needs for targeted *clusters*
+This project aims to built a a Webapps to classification churn of customer based on transaction data, *visit* data & *login* data
+
 
 # File Explanation on Github
 
 This repository consists of several files, namely :
 
 - Folder `deployment` = Contains files used for *deployment* to `HuggingFace` (contains models, python applications etc.)
-- `dataset_Customer-Credit-Card-Clustering.csv` = Datasets used in the project
+- `churn.csv` = Datasets used in the project
 - `notebook_Customer-Churn-Classification.ipynb` = This file is the main *notebook* used to explore dataset and create model
 - `inferencing_Customer-Churn-Classification.ipynb`= *Notebook* used for *testing inference*. Inferencing is done on a separate *notebook* to prove that the model can run on a *notebook* that is *clean* of variables**
 - `url.txt` = Deployment URL to HuggingFace
