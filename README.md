@@ -1,6 +1,6 @@
 # Customer Churn Classification
 
-This project aims to built a a Webapps to classification churn of customer based on transaction data, *visit* data & *login* data
+This project aims to built a Webapps to classification churn of customer based on transaction data, *visit* data & *login* data
 
 
 # File Explanation on Github
